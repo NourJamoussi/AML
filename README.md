@@ -2,7 +2,7 @@
 
 This repository contains code and reports of Machine Learning and Deep Learning challenges on Kaggle. 
 
-The challenges were organized by Institut Eurecom (Sophia Antipolis, FR) and they are:
+The challenges were organized by Eurecom (Sophia Antipolis, FR) and they are:
 
 <ul>
   <li><b>Weather prediction:</b> linear regression to infer the temperature of a specific place on the Earth.</li>
